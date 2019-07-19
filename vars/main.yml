@@ -1,0 +1,5 @@
+---
+# vars file for ansible-terraform
+terraform_version: 0.12.5
+os: linux
+arch: amd64
